@@ -94,6 +94,9 @@ function CodeView() {
             }
 
             if (finalData && finalData.files) {
+                 console.log("FILES", finalData.files);
+                 console.log("FINAL DATA", finalData);
+console.log("FILES KEYS", Object.keys(finalData.files || {}));
                 const processedAiFiles = preprocessFiles(finalData.files || {});
                 const mergedFiles = { ...Lookup.DEFAULT_FILE, ...processedAiFiles };
                 setFiles(mergedFiles);
