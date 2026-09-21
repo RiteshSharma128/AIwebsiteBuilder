@@ -1,7 +1,10 @@
-
 # 🚀 AI Website Builder
 
 An AI-powered Website Builder that generates complete websites from simple text prompts. Users can describe their idea in natural language, and the platform generates code, previews, and project structures instantly using Generative AI.
+
+### 🌐 Live Demo
+
+👉 https://a-iwebsite-builder-xi.vercel.app/
 
 ![Next.js](https://img.shields.io/badge/Next.js-15-black)
 ![React](https://img.shields.io/badge/React-19-blue)
@@ -15,13 +18,14 @@ An AI-powered Website Builder that generates complete websites from simple text 
 
 - 🤖 AI-powered website generation
 - 💬 Real-time AI chat interface
-- 🎨 Modern UI with Glassmorphism Design
+- 🎨 Modern Glassmorphism UI
 - ⚡ Live code generation
-- 👀 Website preview support
+- ✨ Prompt Enhancement
+- 👀 Live website preview generation
 - 🗂 Workspace management
 - ☁️ Convex database integration
 - 🔄 Real-time updates
-- 📱 Responsive design
+- 📱 Fully responsive design
 - 🚀 Fast Next.js performance
 
 ---
@@ -130,19 +134,20 @@ http://localhost:3000
 
 ## 📸 Screenshots
 
-Add screenshots here after deployment.
+Add screenshots of the homepage, workspace, AI generation, and preview section here.
 
 ---
 
 ## 🔮 Future Improvements
 
-- Authentication
+- Authentication & User Profiles
 - Team Collaboration
 - Multi AI Model Support
 - Export to GitHub
 - One-click Deployment
 - Code Versioning
-- Drag & Drop Builder
+- Drag & Drop Website Builder
+- AI Template Marketplace
 
 ---
 
@@ -151,10 +156,10 @@ Add screenshots here after deployment.
 **Ritesh Sharma**
 
 - GitHub: https://github.com/RiteshSharma128
-- LinkedIn: Add Your LinkedIn Profile
+- Live Demo: https://a-iwebsite-builder-xi.vercel.app/
 
 ---
 
 ## ⭐ Support
 
-If you like this project, please give it a star ⭐ on GitHub.
+If you like this project, please give it a ⭐ on GitHub and share your feedback.
