@@ -69,21 +69,8 @@ An AI-powered Website Builder that generates complete websites from simple text 
 └── README.md
 ```
 
----
 
-## ⚙️ Environment Variables
 
-Create a `.env.local` file and add:
-
-```env
-GEMINI_API_KEY=YOUR_GEMINI_API_KEY
-
-NEXT_PUBLIC_CONVEX_URL=YOUR_CONVEX_URL
-
-NEXT_PUBLIC_CONVEX_SITE_URL=YOUR_CONVEX_SITE_URL
-
-CONVEX_DEPLOYMENT=YOUR_CONVEX_DEPLOYMENT
-```
 
 ---
 
